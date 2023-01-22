@@ -1,3 +1,6 @@
 [submodule "Game-Boy-KiCad-Library"]
 	path = Game-Boy-KiCad-Library
 	url = https://github.com/HDR/Game-Boy-KiCad-Library
+[submodule "digikey-kicad-library"]
+	path = digikey-kicad-library
+	url = https://github.com/Digi-Key/digikey-kicad-library

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "GBA")(type "Legacy")(uri "${KIPRJMOD}/Game-Boy-KiCad-Library/Symbols/Gameboy.lib")(options "")(descr "Gameboy cartridge"))
+  (lib (name "Digikey-Crystal")(type "Legacy")(uri "${KIPRJMOD}/digikey-kicad-library/digikey-symbols/dk_Crystals.lib")(options "")(descr ""))
+)
