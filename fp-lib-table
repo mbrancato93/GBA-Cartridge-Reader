@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "C3E-16.000-9-1015-X-R")(type "KiCad")(uri "${KIPRJMOD}/libraries/C3E-16.000-9-1015-X-R.ultralibrarian")(options "")(descr ""))
+  (lib (name "Sparkfun-Capacitors")(type "KiCad")(uri "${KIPRJMOD}/libraries/SparkFun-KiCad-Libraries/Footprints/Capacitors.pretty")(options "")(descr ""))
+  (lib (name "Sparkfun-Switches")(type "KiCad")(uri "${KIPRJMOD}/libraries/SparkFun-KiCad-Libraries/Footprints/Switches.pretty")(options "")(descr ""))
+)
