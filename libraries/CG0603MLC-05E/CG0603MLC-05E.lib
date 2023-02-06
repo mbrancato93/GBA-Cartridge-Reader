@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# CG0603MLC-05E
+#
+DEF CG0603MLC-05E RV 0 40 Y N 1 L N
+F0 "RV" -200 100 50 H V L BNN
+F1 "CG0603MLC-05E" -200 -200 50 H V L BNN
+F2 "VARC1608X56N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Bourns" 0 0 50 H I L BNN "MANUFACTURER"
+F5 "0.56 mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F6 "IPC 7351B" 0 0 50 H I L BNN "STANDARD"
+F7 "E" 0 0 50 H I L BNN "PARTREV"
+DRAW
+P 2 0 0 10 -50 -50 0 50 N
+P 2 0 0 10 0 50 50 -50 N
+P 2 0 0 10 50 -50 100 50 N
+P 2 0 0 10 100 50 150 -50 N
+P 2 0 0 10 150 -50 200 0 N
+P 2 0 0 10 -50 -50 -100 50 N
+P 2 0 0 10 -100 50 -150 -50 N
+P 2 0 0 10 -150 -50 -200 0 N
+P 2 0 0 10 -130 -100 140 80 N
+P 2 0 0 10 -130 -100 -210 -100 N
+P 2 0 0 10 -13 -50 0 -75 N
+P 2 0 0 10 0 -75 13 -50 N
+X ~ 1 -300 0 100 R 40 40 0 0 P 
+X ~ 2 300 0 100 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
